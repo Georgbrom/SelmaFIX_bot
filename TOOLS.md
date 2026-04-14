@@ -37,4 +37,8 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-Add whatever helps you do your job. This is your cheat sheet.
+### Web Search
+- Tool: `web_search`
+- Purpose: Search the web via Brave Search API for research and knowledge gathering.
+- Typical use: Quick fact-checking, discovering recent developments, finding resources.
+- Configuration: No extra setup needed; just use the `web_search` skill when you need up-to-date info.
